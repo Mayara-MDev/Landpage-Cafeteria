@@ -6,7 +6,7 @@ A proposta é simples: um design moderno, responsivo e objetivo, focado na exper
 ## 🚀 Tecnologias utilizadas
 - **HTML5**
 - **CSS3**
-- **JavaScript (básico, se houver interações)**
+- **JavaScript**
 
 
 
